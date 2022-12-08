@@ -6,6 +6,10 @@ furucombo.app flashloan application
 **Using a flash loan without coding**\
 코딩없이 플래시론 사용하기
 
+```
+wget  
+```
+
 1.flash loan\
 2.Swap Token\
 3.Swap Token\
