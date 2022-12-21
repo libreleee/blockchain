@@ -1,7 +1,7 @@
 # blockchain
 DApp, DeFi
 
-# Flash Loan을 이용한 차익거래 프로그래밍을 목표로 합니다
+# Flash Loan을 이용한 차익거래 프로그래밍
 담보없이 대출받아 차익거래로 수익을 창출합니다.
 
 
