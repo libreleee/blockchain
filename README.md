@@ -49,8 +49,17 @@ Orderbook 는 매수 및 매도 주문 모음으로 구성됩니다. 입찰가�
      트레이더는 자금을 소유하거나 은행에서 차입해야 합니다.
 
 - AMM을 사용하는 DEX 간의 차익 거래
- 인기 있는 플랫폼
+  - 인기 있는 플랫폼
  [Uniswap](https://uniswap.org/), [Balancer](https://balancer.fi/), [1inch](https://app.1inch.io/), [Sushi Swap](https://app.sushi.com/), [Kyber Network](https://kyber.network/),  and [Curve Finance](https://curve.fi/#/ethereum/swap).
+
+  - 시나리오 
+   DEX 풀간 자산 교환 가격차이가 발생 하는 경우
+  - 실행
+   한 풀에서 자산 A에서 자산 B로 Swap하고 다른 풀에서 다시 Swap하여 두 풀 사이의 가격 스프레드에서 이익을 얻는다
+   
+- 클래식 오더북을 사용하는 DEX 간 차익거래
+ - 인기 있는 플랫폼
+  0x 프로토콜 로 구동되는 Radar Relay
 
 
 ## 플래시 론의 실행 단계 
