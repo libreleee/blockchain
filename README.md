@@ -16,9 +16,9 @@ furucombo.app flashloan application
 wget  
 ```
 
-1.flash loan\
-2.Swap Token\
-3.Swap Token\
+1.flash loan Aave\
+2.Swap Token 1inch\
+3.Swap Token Curve\
 4.Repay Loan
 
 ![frurucombo-flashloan](https://user-images.githubusercontent.com/117779419/206181242-17944c56-a1e3-4af0-89ae-9e3542bc725a.PNG)
