@@ -1,6 +1,12 @@
 # blockchain
 DApp, DeFi
 
+Direct Usage of Smart Contracts
+
+![flash-loan-diagram](https://user-images.githubusercontent.com/117779419/208811327-4bceff38-f885-4d3b-b158-da4964602cc7.png)
+
+
+
 furucombo.app flashloan application
 
 **Using a flash loan without coding**\
