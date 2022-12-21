@@ -1,7 +1,7 @@
 # blockchain
 DApp, DeFi
 
-플래시론이란 무엇입니까?
+## 플래시론이란 무엇입니까?
 
 전통적인 대출의 경우 대부업자는 일반적으로 돈을 상환받기 위해 어떤 형태의 담보나 담보를 요구합니다. 대출 계약은 일반적으로 승인되는 데 시간이 걸리며 차용인은 정해진 기간 동안 이자와 함께 대출금을 상환합니다.
 
@@ -11,7 +11,7 @@ DApp, DeFi
 
 
 
-Direct Usage of Smart Contracts
+## Direct Usage of Smart Contracts
 
 ![flash-loan-diagram](https://user-images.githubusercontent.com/117779419/208811327-4bceff38-f885-4d3b-b158-da4964602cc7.png)
 
