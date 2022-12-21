@@ -46,9 +46,7 @@ DeFi 세계에서 거래자는 차익 거래 전략을 사용하여 자산에 �
 
 
 
-furucombo.app flashloan application
 
-**Using a flash loan without coding**\
 ## 코딩없이 플래시론 사용하기 furucombo web site 의 사용방법
 
 ```
