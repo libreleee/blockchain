@@ -40,6 +40,12 @@ DeFi 세계에서 거래자는 차익 거래 전략을 사용하여 자산에 �
  - 담보 스왑 - 담보 대출의 토큰을 기존 대출의 담보로 다른 토큰으로 교환
  - 자기 청산 - 토큰 스왑을 통한 담보 대출 상환 및 플래시 론 상환
 
+
+## Flash Loan을 이용한 차익거래 프로그래밍을 목표로 합니다
+담보없이 대출받아 차익거래로 수익을 창출합니다.
+
+
+
 ## Direct Usage of Smart Contracts
 
 ![flash-loan-diagram](https://user-images.githubusercontent.com/117779419/208811327-4bceff38-f885-4d3b-b158-da4964602cc7.png)
